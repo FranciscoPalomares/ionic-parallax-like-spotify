@@ -81,4 +81,9 @@ page-home {
         bottom: 5px;
         color: #888;
       }
+
+      .animacion{
+        transition: opacity 500 ease-in-out;
+        opacity:1;
+      }
 }

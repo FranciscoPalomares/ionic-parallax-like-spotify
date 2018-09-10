@@ -1,6 +1,10 @@
 <ion-header no-border>
-  <ion-navbar transparent>
-    <ion-title id="titulo" center text-center>Lost Frequencies</ion-title>
+  <ion-navbar transparent class="animacion">
+
+
+    <ion-title *ngIf="mostrar_titulo " id="titulo" center text-center>Lost Frequencies</ion-title>
+
+
   </ion-navbar>
 </ion-header>
 <ion-content (ionScroll)="onScroll($event) ">
