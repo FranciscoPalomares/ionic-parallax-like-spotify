@@ -7,5 +7,11 @@ Parallax like spotify in Ionic  **Firebase Hosting:** &nbsp;&nbsp;&nbsp;
 <img  src="https://github.com/iPhaco96/ionic-parallax-like-spotify/blob/master/src/assets/imgs/profile/parallax.gif" width="300" height="500" />
 </p>
 
+<br>
+<br>
+<p align="center">
+  Credits to:
+   <br>
+  https://github.com/yannbf/ionic3-components
+ </p>
 
-**Credits to:** https://github.com/yannbf/ionic3-components
