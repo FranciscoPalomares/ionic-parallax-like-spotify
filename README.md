@@ -1,5 +1,5 @@
-# ionic-parallax-like-spotify
-Parallax like spotify in Ionic Firebase Hosting: &nbsp;
+# ionic-parallax-like-spotify #
+Parallax like spotify in Ionic  **Firebase Hosting:** &nbsp;&nbsp;&nbsp;
 <a href="https://ionic-parallax-effect.firebaseapp.com/">
   <img  src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="70"/>
 </a>
@@ -8,4 +8,4 @@ Parallax like spotify in Ionic Firebase Hosting: &nbsp;
 </p>
 
 
-Credits to: https://github.com/yannbf/ionic3-components
+**Credits to:** https://github.com/yannbf/ionic3-components
