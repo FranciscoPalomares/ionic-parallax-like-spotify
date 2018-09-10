@@ -1,0 +1,8 @@
+# ionic-parallax-like-spotify
+Parallax like spotify in Ionic
+<p align="center">
+<img  src="https://github.com/iPhaco96/ionic-parallax-like-spotify/blob/master/src/assets/imgs/profile/parallax.gif" width="300" height="500" />
+</p>
+Firebase Hosting: https://ionic-parallax-effect.firebaseapp.com/
+
+Credits to: https://github.com/yannbf/ionic3-components
